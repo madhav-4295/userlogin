@@ -1,0 +1,9 @@
+export const PHONE_NUMBER= "PHONE_NUMBER" //seting phone number input
+export const IS_LOGGEDIN="IS_LOGGEDIN"    //seting log in state of the user
+export const OTP_VERIFY="OTP_VERIFY"      //seting Phone OTP 
+export const REDIR="REDIR"                //setting redirect state( not using)
+export const EMAIL="EMAIL"                // setting Email input 
+export const EOTP="EOTP"                  // setting email verification code
+export const FIRST_NAME="FIRTS_NAME"      // setting first name
+export const LAST_NAME="LAST_NAME"        // setting last name
+export const IS_CHECKED="IS_CHECKED"      // setting Policy acceptance state
